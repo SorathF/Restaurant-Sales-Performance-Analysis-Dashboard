@@ -1,4 +1,4 @@
-# Restaurant-Sales-Performance-Analysis-Dashboard
+# Restaurant-Sales-&-Performance-Analysis-Dashboard
 ## Overview
 A fast-growing restaurant chain, operating multiple brands across major cities, lacks a centralized reporting system to monitor sales performance, customer trends, operational efficiency, and profitability. This project builds an interactive dashboard to track sales, profitability, customer behavior, and operations.
 
