@@ -1,6 +1,6 @@
 # Restaurant-Sales-Performance-Analysis-Dashboard
 ## Overview
-A fastest-growing restaurant chains, operating multiple brands across major cities, lacks a centralized reporting system to monitor sales performance, customer trends, operational efficiency, and profitability. This project builds an interactive dashboard to track sales, profitability, customer behavior, and operations.
+A fast-growing restaurant chain, operating multiple brands across major cities, lacks a centralized reporting system to monitor sales performance, customer trends, operational efficiency, and profitability. This project builds an interactive dashboard to track sales, profitability, customer behavior, and operations.
 
 ## Tools
 • Power BI for data modeling, analysis, and visualization
@@ -28,7 +28,7 @@ The dataset contained 80,000 transactional records collected from all branches b
 
 ## Data Cleaning
 The dataset required cleaning before analysis. Power Query was used to clean, standardize, and prepare the data for reliable reporting.
-Following steps were implemented to cleaned the data:
+The following steps were implemented to clean the data:
 
 • Removed duplicate records from columns where deemed necessary to ensure data accuracy
 
@@ -45,10 +45,10 @@ Following steps were implemented to cleaned the data:
 • Created a conditional column to derive Subcategory from Item Name, filling gaps in the product hierarchy.
 
 ## Data Modeling
-After cleaning, a star-schema data model was built by connecting the fact table with the dimension tables.
+After cleaning, a star schema data model was built by connecting the fact table to the dimension tables.
 
 ## Data Analysis
-DAX measures were created to calculate following metrics:
+DAX measures were created to calculate the following metrics:
 
 • Total Sales
 
@@ -81,3 +81,4 @@ DAX measures were created to calculate following metrics:
 • Year-over-Year Growth %
 
 ## Data Visualization
+[Download the dashboard](restaurant-sales-dashboard.pbix)
