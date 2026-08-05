@@ -81,4 +81,4 @@ DAX measures were created to calculate the following metrics:
 • Year-over-Year Growth %
 
 ## Data Visualization
-[Download the dashboard](restaurant-sales-dashboard.pbix)
+[Download the dashboard](Dashboard.pbix)
